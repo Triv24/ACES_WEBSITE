@@ -1,0 +1,43 @@
+.location-section-header h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: rgba(6, 12, 34, 0.98);
+}
+.location-section-header::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 60px;
+  height: 5px;
+  background: #f82249;
+  margin-top: 40px;
+  left: calc(50% - 25px);
+}
+
+.aces-logo {
+  width: 5rem;
+  height: 5rem;
+}
+
+.faq-section-header h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.faq-section-header::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 60px;
+  height: 5px;
+  background: #f82249;
+  margin-top: 50px;
+  left: calc(50% - 25px);
+}

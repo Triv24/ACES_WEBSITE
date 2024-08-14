@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "status": "Live events"
+    },
+    {
+      "name": "Anime Quiz",
+      "reg_link": "#",
+      "img": "Assets\\team\\Jyotsna Hegde.jpg",
+      "isRegOpen": true
+    },
+    {
+      "name": "Blind Coding",
+      "reg_link": "#",
+      "img": "Assets\\team\\Jyotsna Hegde.jpg",
+      "isRegOpen": true
+    }
+  ]
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "team": "Editorial team"
+  },
+  {
+    "name": "Yashshree Kirad",
+    "position": "Head",
+    "mail": "yashakirad@gmail.com",
+    "instagram": "#",
+    "linkedin": "https://www.linkedin.com/in/yashshree-kirad-20b435220/",
+    "img": "Assets\\team\\Yashshree Kirad.jpg"
+  },
+  {
+    "name": "Pankaj More",
+    "position": "Joint Head",
+    "mail": "pankajsmore02@gmail.com",
+    "instagram": "https://www.instagram.com/pankajmore8941",
+    "linkedin": "https://www.linkedin.com/in/pankaj-more-6309ab226/",
+    "img": "Assets\\team\\Pankaj More.jpg"
+  },
+  {
+    "name": "Atharva Pathak",
+    "position": "Member",
+    "mail": "20100094@pvgcoet.ac.in",
+    "instagram": "https://instagram.com/the_atharvapathak27/",
+    "linkedin": "https://www.linkedin.com/in/atharva-pathak-9a6565222/",
+    "img": "Assets\\team\\Atharva Pathak.png"
+  },
+  {
+    "name": "Dyuti Moghe",
+    "position": "Member",
+    "mail": "dyutimoghe@gmail.com",
+    "instagram": "https://www.instagram.com/dyutimoghe",
+    "linkedin": "#",
+    "img": "Assets\\team\\Dyuti Moghe.jpg"
+  },
+  {
+    "name": "Atharv Amble",
+    "position": "Member",
+    "mail": "atharvamble7@gmail.com",
+    "instagram": "https://www.instagram.com/atharvamble07/",
+    "linkedin": "https://www.linkedin.com/in/atharv-amble-242757256/",
+    "img": "Assets\\team\\Atharva Amble.jpg"
+  }
+]

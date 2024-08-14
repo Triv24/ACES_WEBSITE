@@ -1,0 +1,53 @@
+[
+  {
+    "team": "Event team"
+  },
+  {
+    "name": "Prathmesh Gawali",
+    "position": "Head",
+    "mail": "prathmeshg@gmail.com",
+    "instagram": "https://www.instagram.com/prathmesh__gawali/",
+    "linkedin": "https://www.linkedin.com/in/prathmesh-gawali-19231324a/",
+    "img": "Assets\\team\\Prathamesh Gawali.jpg"
+  },
+  {
+    "name": "Sejal Ambekar",
+    "position": "Joint Head",
+    "mail": "sejalvambekar@gmail.com",
+    "instagram": "https://www.instagram.com/sejal_0810",
+    "linkedin": "https://www.linkedin.com/in/sejal-ambekar-ba0998258",
+    "img": "Assets\\team\\Sejal_Ambekar - 0036_Sejal Ambekar.jpg"
+  },
+  {
+    "name": "Sanika Shinde",
+    "position": "Member",
+    "mail": "shindessanika@gmail.com",
+    "instagram": "https://www.instagram.com/sanikashinde_31",
+    "linkedin": "https://www.linkedin.com/in/sanika-shinde-903a99290/",
+    "img": "Assets\\team\\Sanika Shinde.jpg"
+  },
+  {
+    "name": "Ishita deshpande",
+    "position": "Member",
+    "mail": "22020086@pvgcoet.ac.in",
+    "instagram": "https://www.instagram.com/ishita22d/",
+    "linkedin": "https://www.linkedin.com/in/ishita-deshpande-b2426225a",
+    "img": "Assets\\team\\Ishita Deshpande.jpg"
+  },
+  {
+    "name": "Pranav Pisal",
+    "position": "Member",
+    "mail": "pranavpisal005@gmail.com",
+    "instagram": "https://www.instagram.com/pranavpisal_1012",
+    "linkedin": "https://www.linkedin.com/in/pranav-pisal-63a907256",
+    "img": "Assets\\team\\Pranav Pisal.jpg"
+  },
+  {
+    "name": "Atharva Chitnis",
+    "position": "Member",
+    "mail": "atharvachitnis16@gmail.com",
+    "instagram": "https://www.instagram.com/chitnisatharva16",
+    "linkedin": "https://www.linkedin.com/in/atharva-chitnis-243a79215",
+    "img": "Assets\\team\\Atharva Chitnis.jpg"
+  }
+]

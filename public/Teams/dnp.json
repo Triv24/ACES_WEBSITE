@@ -1,0 +1,61 @@
+[
+  {
+    "team": "Design and Production team"
+  },
+  {
+    "name": "Pradnya Dengale",
+    "position": "Head",
+    "mail": "dengale2003pradnya@gmail.com",
+    "instagram": "https://www.instagram.com/pradnya.d_26/",
+    "linkedin": "https://www.linkedin.com/in/pradnya-dengale-61241b243/",
+    "img": "Assets\\team\\Pradnya_Dengale - 0035 PRADNYA DENGALE.jpg"
+  },
+  {
+    "name": "Atharva Chaudhari",
+    "position": "Joint Head",
+    "mail": "saplatharva@gmail.com",
+    "instagram": "https://www.instagram.com/atharva_.1810/",
+    "linkedin": "https://www.linkedin.com/in/atharva-chaudhari-a76343238/",
+    "img": "Assets\\team\\Atharva Chaudhari.jpg"
+  },
+  {
+    "name": "Aryan Desai",
+    "position": "Member",
+    "mail": "aryan04vd@gmail.com",
+    "instagram": "https://www.instagram.com/aryan04vd",
+    "linkedin": "https://www.linkedin.com/in/aryan-desai-235b36273",
+    "img": "Assets\\team\\Aaryan Desai.jpeg"
+  },
+  {
+    "name": "Shruti Natekar",
+    "position": "Member",
+    "mail": "snatekar03@gmail.com",
+    "instagram": "https://instagram.com/nshruti_n",
+    "linkedin": "https://www.linkedin.com/in/shruti-natekar-a013b228a",
+    "img": "Assets\\team\\Shruti Natekar.jpeg"
+  },
+  {
+    "name": "Aryan Kadam",
+    "position": "Member",
+    "mail": "aryankadam2952005@gmail.com",
+    "instagram": "https://www.instagram.com/kadam_aryan_04",
+    "linkedin": "https://www.linkedin.com/in/aryan-kadam-84a940278/",
+    "img": "Assets\\team\\Aaryan Kadam.jpg"
+  },
+  {
+    "name": "Aabha Thoke",
+    "position": "Member",
+    "mail": "aabhathoke@gmail.com",
+    "instagram": "#",
+    "linkedin": "https://www.linkedin.com/in/aabha-thoke-14083928a/",
+    "img": "Assets\\team\\Aabha Thoke.jpg"
+  },
+  {
+    "name": "Divija Arjunwadkar",
+    "position": "Member",
+    "mail": "divijaarjun@gmail.com",
+    "instagram": "https://instagram.com/divija.aw",
+    "linkedin": "#",
+    "img": "Assets\\team\\Divija Arunwadkar.jpeg"
+  }
+]

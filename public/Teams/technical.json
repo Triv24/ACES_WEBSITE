@@ -1,0 +1,61 @@
+[
+  {
+    "team": "Technical team"
+  },
+  {
+    "name": "Pratap Kadam",
+    "position": "Head",
+    "mail": "pratapkadam11002@gmail.com",
+    "instagram": "https://instagram.com/pratap_k01?igshid=YmMyMTA2M2Y=",
+    "linkedin": "https://www.linkedin.com/in/pratap-kadam-b347b7227/",
+    "img": "Assets\\team\\Pratap Kadam.jpg"
+  },
+  {
+    "name": "Shyam Lokhande",
+    "position": "Joint Head",
+    "mail": "lokhandeshyam2002@gmail.com",
+    "instagram": "https://www.instagram.com/shyam_lokhandepatil/",
+    "linkedin": "https://www.linkedin.com/in/shyam-lokhande-6920a2207",
+    "img": "Assets\\team\\Shyam lokhande.jpg"
+  },
+  {
+    "name": "Aditya Deshmukh",
+    "position": "Joint Head",
+    "mail": "adityawithyoualways@gmail.com",
+    "instagram": "https://instagram.com/aditya_b4_u?igshid=YmMyMTA2M2Y=",
+    "linkedin": "https://www.linkedin.com/in/aditya-deshmukh-935823196",
+    "img": "Assets/team/Aditya Deshmukh.jpg"
+  },
+  {
+    "name": "Samruddhi Nadgouda",
+    "position": "Member",
+    "mail": "samusnadgouda2003@gmail.com",
+    "instagram": "https://www.instagram.com/n_samu_29/",
+    "linkedin": "https://www.linkedin.com/in/samruddhi-nadgouda/",
+    "img": "Assets/team/Samruddhi Nadgouda.jpg"
+  },
+  {
+    "name": "Avneesh Jadhav",
+    "position": "Member",
+    "mail": "avneeshjadhav1@gmail.com",
+    "instagram": "https://www.instagram.com/avneeshjadhav1/",
+    "linkedin": "https://in.linkedin.com/in/avneesh-jadhav-16b750256",
+    "img": "Assets/team/Avneesh Jadhav.jpg"
+  },
+  {
+    "name": "Aryan Shinde",
+    "position": "Member",
+    "mail": "22110005@pvgcoet.ac.in",
+    "instagram": "https://www.instagram.com/aryan_shinde2004/",
+    "linkedin": "https://www.linkedin.com/in/aryan-shinde-b662bb256",
+    "img": "Assets/team/Aaryan Shinde.jpg"
+  },
+  {
+    "name": "Atharv Pujari",
+    "position": "Member",
+    "mail": "atharv.pujari2010@gmail.com",
+    "instagram": "_blank",
+    "linkedin": "https://www.linkedin.com/in/atharv-pujari-b11978285/",
+    "img": "Assets/team/Atharva Pujari.jpg"
+  }
+]

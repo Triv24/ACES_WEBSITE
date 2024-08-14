@@ -1,0 +1,129 @@
+.news-container {
+  display: flex;
+  justify-content: space-evenly;
+
+  font-family: "Manrope", sans-serif;
+}
+
+.background {
+  background-image: url("../images/meetings-bg.jpg");
+  height: 100vh;
+}
+
+.news-section-header h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 10px;
+  margin-top: 100px;
+  color: white;
+}
+
+.news-section-header::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 60px;
+  height: 5px;
+  background: #f82249;
+  margin-top: 40px;
+  left: calc(50% - 25px);
+}
+
+.cardd {
+  width: 275px;
+  height: 400px;
+  border: 0px solid #e6e5ff;
+  border-radius: 10px;
+  background-color: #f4f6f9;
+  margin: 200px 35px 20px 35px;
+}
+
+.cardd:hover {
+  box-shadow: 0 24px 72px 0 rgba(96, 93, 255, 0.1);
+  /* border: 1px solid #DFE6EE; */
+}
+
+.card-img {
+  height: 130px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+  object-fit: cover;
+}
+
+.card-content {
+  margin: 10px 20px 10px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.article-topic {
+  width: 100px;
+  height: 35px;
+  padding: 4px 12px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  color: #2e5a8c;
+  background-color: #dfe6ee;
+}
+
+.article-topic > p {
+  margin: auto;
+  font-family: "Rubik";
+}
+
+.article-content > h5 {
+  font-weight: 700;
+  margin: 10px 0 10px 0;
+}
+
+.article-content > p {
+  font-weight: 400;
+  margin: 0 0 10px 0;
+}
+
+.card-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.article-author > p {
+  margin: 0px;
+  font-weight: 800;
+  font-family: "Rubik";
+}
+
+.go-to-article-button {
+  height: 35px;
+  width: 75px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background-color: #f82249;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid transparent;
+}
+
+.go-to-article-button svg {
+  width: 64px;
+  stroke: white;
+}
+
+.go-to-article-button:hover {
+  border: 1px solid brown;
+  background-color: #ff274e;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;
+}

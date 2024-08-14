@@ -1,0 +1,61 @@
+[
+  {
+    "team": "Web team"
+  },
+  {
+    "name": "Swaraj Mhatre",
+    "position": "Head",
+    "mail": "swarajmhatre25@gmail.com",
+    "instagram": "https://www.instagram.com/swarajmhatre25/",
+    "linkedin": "https://www.linkedin.com/in/swaraj-mhatre-a054a6205",
+    "img": "Assets\\team\\Swaraj Mhatre.jpg"
+  },
+  {
+    "name": "Atharva Kale",
+    "position": "Joint Head",
+    "mail": "atharvaakale@gmail.com",
+    "instagram": "https://www.instagram.com/_ak_2109/",
+    "linkedin": "https://www.linkedin.com/in/atharva-kale-78b46322b",
+    "img": "\\Assets\\team\\Atharva Kale.jpg"
+  },
+  {
+    "name": "Aakash Joshi",
+    "position": "Member",
+    "mail": "aakashj853@gmail.com",
+    "instagram": "https://www.instagram.com/aakashxjoshi/",
+    "linkedin": "https://www.linkedin.com/in/aakash-joshii/",
+    "img": "\\Assets\\team\\Aakash Joshi.png"
+  },
+  {
+    "name": "Abhijit Tambade",
+    "position": "Member",
+    "mail": "abhijittambade03@gmail.com",
+    "instagram": "https://www.instagram.com/abhi_tambade40/",
+    "linkedin": "https://www.linkedin.com/in/abhijit-tambade-173799281",
+    "img": "\\Assets\\team\\Abhijit Tambade.jpg"
+  },
+  {
+    "name": "Dhanesh Sathe",
+    "position": "Member",
+    "mail": "dds.satana@gmail.com",
+    "instagram": "https://instagram.com/dhanesh_sathe_04?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D",
+    "linkedin": "https://www.linkedin.com/in/dhanesh-sathe-2b28b0256",
+    "img": "\\Assets\\team\\Dhanesh Sathe.jpg"
+  },
+  {
+    "name": "Dhruv Shenavi",
+    "position": "Member",
+    "mail": "dhruvshenavi@gmail.com",
+    "instagram": "https://www.instagram.com/dhruvshenavi/",
+    "linkedin": "https://www.linkedin.com/in/dhruv-shenavi-88667a242/",
+    "img": "\\Assets\\team\\Dhruv Shenavi.jpg"
+  },
+  {
+    "name": "Ojas Kumar",
+    "position": "Member",
+    "mail": "kumarojas7777@gmail.com",
+    "instagram": "https://instagram.com/ojas_kumar1008",
+    "linkedin": "https://www.linkedin.com/in/ojas-kumar-b5bb30246",
+    "img": "\\Assets\\team\\Ojas Kumar.jpg"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "team": "Treasury team"
+  },
+  {
+    "name": "Samruddhi Dhon",
+    "position": "Head",
+    "mail": "samruddhidhon1@gmail.com",
+    "instagram": "https://www.instagram.com/samruddhi_dhon/",
+    "linkedin": "https://www.linkedin.com/in/samruddhi-dhon-73423a231/",
+    "img": "Assets\\team\\samruddhiDhon.jpg"
+  },
+  {
+    "name": "Veeraja Ghate",
+    "position": "Joint Head",
+    "mail": "ghateveeraja@gmail.com",
+    "instagram": "https://www.instagram.com/the_eruditeambivert",
+    "linkedin": "https://www.linkedin.com/in/veeraja-ghate-0935b9277",
+    "img": "Assets\\team\\Veerja Ghate.jpg"
+  },
+  {
+    "name": "Parag Jadhav",
+    "position": "Member",
+    "mail": "jadhavparag14@gmail.com",
+    "instagram": "https://instagram.com/paragjadhav07",
+    "linkedin": "https://www.linkedin.com/in/parag-jadhav-5655a9288",
+    "img": "Assets\\team\\Parag Jadhav.jpg"
+  },
+  {
+    "name": "Anurag Muley",
+    "position": "Member",
+    "mail": "anuragmuley09@gmail.com",
+    "instagram": "https://instagram.com/muleyanurag",
+    "linkedin": "https://www.linkedin.com/in/anurag-muley-58756325b",
+    "img": "Assets\\team\\Anurag Muley.jpg"
+  }
+]
