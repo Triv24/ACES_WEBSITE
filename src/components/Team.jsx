@@ -67,13 +67,13 @@ const Team = () => {
                             <i class="fa fa-envelope" aria-hidden="true"></i>
                           </a>
                         </li>
-                        {/* {{obj.instagram && (
+                        {obj.instagram && (
                           <li style={{ "--i": 2 }}>
                             <a href={obj.instagram}>
                               <i class="fa fa-instagram" aria-hidden="true"></i>
                             </a>
                           </li>
-                        )} */}
+                        )}
                         <li style={{ "--i": 3 }}>
                           <a href={obj.linkedin}>
                             <i class="fa fa-linkedin" aria-hidden="true"></i>
