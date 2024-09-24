@@ -20,12 +20,10 @@ const Team = () => {
       const editorialData = await editorial.json();
       const dnp = await fetch("Teams/dnp.json");
       const dnpData = await dnp.json();
-      const notification = await fetch("Teams/notification.json");
-      const notificationData = await notification.json();
+      const media = await fetch("Teams/media.json");
+      const mediaData = await media.json();
       const treasury = await fetch("Teams/treasury.json");
       const treasuryData = await treasury.json();
-      const marketing = await fetch("Teams/marketing.json");
-      const marketingData = await marketing.json();
       setTeamData(facultyData);
       setTeamData((teamData) => [...teamData, headsData]);
       setTeamData((teamData) => [...teamData, techData]);
@@ -33,16 +31,15 @@ const Team = () => {
       setTeamData((teamData) => [...teamData, eventData]);
       setTeamData((teamData) => [...teamData, editorialData]);
       setTeamData((teamData) => [...teamData, dnpData]);
-      setTeamData((teamData) => [...teamData, notificationData]);
+      setTeamData((teamData) => [...teamData, mediaData]);
       setTeamData((teamData) => [...teamData, treasuryData]);
-      setTeamData((teamData) => [...teamData, marketingData]);
     };
     fetchData();
   }, []);
   //console.log(teamData);
   return (
     <div id="team">
-      <h1 className="eventname">ACES COMMITTEE 2023</h1>
+      <h1 className="eventname">ACES COMMITTEE 2024-2025</h1>
       {teamData.map((row, i) => (
         <div key={i} className="maindiv">
           <div className="teamName">{row[0].team}</div>
@@ -70,13 +67,13 @@ const Team = () => {
                             <i class="fa fa-envelope" aria-hidden="true"></i>
                           </a>
                         </li>
-                        {obj.instagram && (
+                        {/* {{obj.instagram && (
                           <li style={{ "--i": 2 }}>
                             <a href={obj.instagram}>
                               <i class="fa fa-instagram" aria-hidden="true"></i>
                             </a>
                           </li>
-                        )}
+                        )} */}
                         <li style={{ "--i": 3 }}>
                           <a href={obj.linkedin}>
                             <i class="fa fa-linkedin" aria-hidden="true"></i>

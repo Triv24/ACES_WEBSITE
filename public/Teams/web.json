@@ -3,59 +3,51 @@
     "team": "Web team"
   },
   {
-    "name": "Swaraj Mhatre",
+    "name": "Aakash A. Joshi",
     "position": "Head",
-    "mail": "swarajmhatre25@gmail.com",
-    "instagram": "https://www.instagram.com/swarajmhatre25/",
-    "linkedin": "https://www.linkedin.com/in/swaraj-mhatre-a054a6205",
-    "img": "Assets\\team\\Swaraj Mhatre.jpg"
-  },
-  {
-    "name": "Atharva Kale",
-    "position": "Joint Head",
-    "mail": "atharvaakale@gmail.com",
-    "instagram": "https://www.instagram.com/_ak_2109/",
-    "linkedin": "https://www.linkedin.com/in/atharva-kale-78b46322b",
-    "img": "\\Assets\\team\\Atharva Kale.jpg"
-  },
-  {
-    "name": "Aakash Joshi",
-    "position": "Member",
     "mail": "aakashj853@gmail.com",
     "instagram": "https://www.instagram.com/aakashxjoshi/",
     "linkedin": "https://www.linkedin.com/in/aakash-joshii/",
-    "img": "\\Assets\\team\\Aakash Joshi.png"
+    "img": "Assets\\team\\Web\\Web_Aakash_Amit_Joshi.png"
   },
   {
-    "name": "Abhijit Tambade",
-    "position": "Member",
-    "mail": "abhijittambade03@gmail.com",
-    "instagram": "https://www.instagram.com/abhi_tambade40/",
-    "linkedin": "https://www.linkedin.com/in/abhijit-tambade-173799281",
-    "img": "\\Assets\\team\\Abhijit Tambade.jpg"
+    "name": "Shravan Chandrachud",
+    "position": "Joint Head",
+    "mail": "shravanchandrachud0110@gmail.com",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/shravan-chandrachud-308912244/",
+    "img": "Assets\\team\\Web\\Web_Shravan_Chandrachud.jpg"
   },
   {
     "name": "Dhanesh Sathe",
     "position": "Member",
     "mail": "dds.satana@gmail.com",
-    "instagram": "https://instagram.com/dhanesh_sathe_04?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D",
-    "linkedin": "https://www.linkedin.com/in/dhanesh-sathe-2b28b0256",
-    "img": "\\Assets\\team\\Dhanesh Sathe.jpg"
+    "instagram": "",
+    "linkedin": "www.linkedin.com/in/dhanesh-sathe-2b28b0256/",
+    "img": "Assets\\team\\web\\Web_Dhanesh_Sathe.png"
   },
   {
-    "name": "Dhruv Shenavi",
+    "name": "Ketaki Kulkarni",
     "position": "Member",
-    "mail": "dhruvshenavi@gmail.com",
-    "instagram": "https://www.instagram.com/dhruvshenavi/",
-    "linkedin": "https://www.linkedin.com/in/dhruv-shenavi-88667a242/",
-    "img": "\\Assets\\team\\Dhruv Shenavi.jpg"
+    "mail": "ketakikulkarni562@gmail.com",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/ketaki-kulkarni-786614245/",
+    "img": "Assets\\team\\Web\\Web_Ketaki_Kulkarni.jpg"
   },
   {
-    "name": "Ojas Kumar",
+    "name": "Shreyash Santosh Dhavale",
     "position": "Member",
-    "mail": "kumarojas7777@gmail.com",
-    "instagram": "https://instagram.com/ojas_kumar1008",
-    "linkedin": "https://www.linkedin.com/in/ojas-kumar-b5bb30246",
-    "img": "\\Assets\\team\\Ojas Kumar.jpg"
-  }
+    "mail": "shreyashdhavale2004@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Web\\Web_Shreyash_Santosh_Dhavale.jpg"
+  },
+  {
+    "name": "Triveni Pradip Waghole",
+    "position": "Member",
+    "mail": "triveni01gauri@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Web\\Web_Triveni_Pradip_Waghole.jpg"
+  }  
 ]

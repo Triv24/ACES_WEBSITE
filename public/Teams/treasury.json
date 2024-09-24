@@ -3,35 +3,51 @@
     "team": "Treasury team"
   },
   {
-    "name": "Samruddhi Dhon",
+    "name": "Rohan Sonawane",
     "position": "Head",
-    "mail": "samruddhidhon1@gmail.com",
-    "instagram": "https://www.instagram.com/samruddhi_dhon/",
-    "linkedin": "https://www.linkedin.com/in/samruddhi-dhon-73423a231/",
-    "img": "Assets\\team\\samruddhiDhon.jpg"
+    "mail": "rohannso14@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Treasury\\Treasury_Rohan_Sonawane.jpg"
   },
   {
-    "name": "Veeraja Ghate",
-    "position": "Joint Head",
-    "mail": "ghateveeraja@gmail.com",
-    "instagram": "https://www.instagram.com/the_eruditeambivert",
-    "linkedin": "https://www.linkedin.com/in/veeraja-ghate-0935b9277",
-    "img": "Assets\\team\\Veerja Ghate.jpg"
+    "name": "Ishita Deshpande ",
+    "position": "Head",
+    "mail": "22020086@pvgcoet.ac.in",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/ishita-deshpande-b2426225a/",
+    "img": "Assets\\team\\Treasury\\Treasury_Ishita_Deshpande.jpg"
   },
   {
-    "name": "Parag Jadhav",
+    "name": "Shreya Gangatirkar",
     "position": "Member",
-    "mail": "jadhavparag14@gmail.com",
-    "instagram": "https://instagram.com/paragjadhav07",
-    "linkedin": "https://www.linkedin.com/in/parag-jadhav-5655a9288",
-    "img": "Assets\\team\\Parag Jadhav.jpg"
+    "mail": "23020066@pvgcoet.ac.in",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Treasury\\Treasury_Shreya_Gangatirkar.jpg"
   },
   {
-    "name": "Anurag Muley",
+    "name": "Vedant Pandurang Kokare",
     "position": "Member",
-    "mail": "anuragmuley09@gmail.com",
-    "instagram": "https://instagram.com/muleyanurag",
-    "linkedin": "https://www.linkedin.com/in/anurag-muley-58756325b",
-    "img": "Assets\\team\\Anurag Muley.jpg"
+    "mail": "kokarevedant579@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Treasury\\Treasury_Vedant_Pandurang_Kokare.jpg"
+  },
+  {
+    "name": "Shrinidhi Upadhye",
+    "position": "Member",
+    "mail": "shrinidhiupadhye25@gmail.com",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/shrinidhi-upadhye-b29412282/",
+    "img": "Assets\\team\\Treasury\\Treasury_Shrinidhi_Upadhye.jpg"
+  },
+  {
+    "name": "Nikhil Chavan",
+    "position": "Member",
+    "mail": "nikhilchavan4002@gmail.com",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/nikhil-chavan-795798256/",
+    "img": "Assets\\team\\Treasury\\Treasury_Nikhil_Chavan.jpg"
   }
 ]

@@ -3,59 +3,67 @@
     "team": "Design and Production team"
   },
   {
-    "name": "Pradnya Dengale",
-    "position": "Head",
-    "mail": "dengale2003pradnya@gmail.com",
-    "instagram": "https://www.instagram.com/pradnya.d_26/",
-    "linkedin": "https://www.linkedin.com/in/pradnya-dengale-61241b243/",
-    "img": "Assets\\team\\Pradnya_Dengale - 0035 PRADNYA DENGALE.jpg"
-  },
-  {
-    "name": "Atharva Chaudhari",
-    "position": "Joint Head",
-    "mail": "saplatharva@gmail.com",
-    "instagram": "https://www.instagram.com/atharva_.1810/",
-    "linkedin": "https://www.linkedin.com/in/atharva-chaudhari-a76343238/",
-    "img": "Assets\\team\\Atharva Chaudhari.jpg"
-  },
-  {
     "name": "Aryan Desai",
-    "position": "Member",
+    "position": "Head",
     "mail": "aryan04vd@gmail.com",
-    "instagram": "https://www.instagram.com/aryan04vd",
-    "linkedin": "https://www.linkedin.com/in/aryan-desai-235b36273",
-    "img": "Assets\\team\\Aaryan Desai.jpeg"
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/aryan-desai-235b36273/",
+    "img": "Assets\\team\\DNP\\DNP_Aryan_Desai.jpeg"
   },
   {
     "name": "Shruti Natekar",
-    "position": "Member",
+    "position": "Joint Head",
     "mail": "snatekar03@gmail.com",
-    "instagram": "https://instagram.com/nshruti_n",
-    "linkedin": "https://www.linkedin.com/in/shruti-natekar-a013b228a",
-    "img": "Assets\\team\\Shruti Natekar.jpeg"
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/shruti-natekar-a013b228a/",
+    "img": "Assets\\team\\DNP\\DNP_Shruti_Natekar.jpg"
   },
   {
-    "name": "Aryan Kadam",
+    "name": "Aryan Prashant Patade",
     "position": "Member",
-    "mail": "aryankadam2952005@gmail.com",
-    "instagram": "https://www.instagram.com/kadam_aryan_04",
-    "linkedin": "https://www.linkedin.com/in/aryan-kadam-84a940278/",
-    "img": "Assets\\team\\Aaryan Kadam.jpg"
+    "mail": "23110009@pvgcoet.ac.in",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\DNP\\DNP_Aryan_Prashant_Patade.jpg"
   },
   {
-    "name": "Aabha Thoke",
+    "name": "Manaswi Dasi",
     "position": "Member",
-    "mail": "aabhathoke@gmail.com",
-    "instagram": "#",
-    "linkedin": "https://www.linkedin.com/in/aabha-thoke-14083928a/",
-    "img": "Assets\\team\\Aabha Thoke.jpg"
+    "mail": "dasi.manaswi@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\DNP\\DNP_Manaswi_Dasi.jpg"
   },
   {
-    "name": "Divija Arjunwadkar",
+    "name": "Siddhi Deshmukh",
     "position": "Member",
-    "mail": "divijaarjun@gmail.com",
-    "instagram": "https://instagram.com/divija.aw",
-    "linkedin": "#",
-    "img": "Assets\\team\\Divija Arunwadkar.jpeg"
+    "mail": "deshmukhsid260505@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\DNP\\DNP_Siddhi_Deshmukh.jpg"
+  },
+  {
+    "name": "Ayush Dhanawade",
+    "position": "Member",
+    "mail": "717ayush@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\DNP\\DNP_Ayush_Dhanawade.jpg"
+  },
+  {
+    "name": "Prarthana Khairnar",
+    "position": "Member",
+    "mail": "prathrnakhairnar@gmail.com ",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/prarthana-khairnar-358872292/",
+    "img": "Assets\\team\\DNP\\DNP_Prarthana _Khairnar.jpg"
+  },
+  {
+    "name": "Saksham Choudhary",
+    "position": "Member",
+    "mail": "sakshamchoudhary0606@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\DNP\\DNP_Saksham_Choudhary.jpg"
   }
 ]

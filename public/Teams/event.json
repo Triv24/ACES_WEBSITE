@@ -3,51 +3,51 @@
     "team": "Event team"
   },
   {
-    "name": "Prathmesh Gawali",
-    "position": "Head",
-    "mail": "prathmeshg@gmail.com",
-    "instagram": "https://www.instagram.com/prathmesh__gawali/",
-    "linkedin": "https://www.linkedin.com/in/prathmesh-gawali-19231324a/",
-    "img": "Assets\\team\\Prathamesh Gawali.jpg"
-  },
-  {
-    "name": "Sejal Ambekar",
-    "position": "Joint Head",
-    "mail": "sejalvambekar@gmail.com",
-    "instagram": "https://www.instagram.com/sejal_0810",
-    "linkedin": "https://www.linkedin.com/in/sejal-ambekar-ba0998258",
-    "img": "Assets\\team\\Sejal_Ambekar - 0036_Sejal Ambekar.jpg"
-  },
-  {
     "name": "Sanika Shinde",
-    "position": "Member",
-    "mail": "shindessanika@gmail.com",
-    "instagram": "https://www.instagram.com/sanikashinde_31",
-    "linkedin": "https://www.linkedin.com/in/sanika-shinde-903a99290/",
-    "img": "Assets\\team\\Sanika Shinde.jpg"
-  },
-  {
-    "name": "Ishita deshpande",
-    "position": "Member",
-    "mail": "22020086@pvgcoet.ac.in",
-    "instagram": "https://www.instagram.com/ishita22d/",
-    "linkedin": "https://www.linkedin.com/in/ishita-deshpande-b2426225a",
-    "img": "Assets\\team\\Ishita Deshpande.jpg"
+    "position": "Head",
+    "mail": "1104sanika@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Event\\Event_Sanika_Shinde.jpg"
   },
   {
     "name": "Pranav Pisal",
-    "position": "Member",
+    "position": "Joint Head",
     "mail": "pranavpisal005@gmail.com",
-    "instagram": "https://www.instagram.com/pranavpisal_1012",
-    "linkedin": "https://www.linkedin.com/in/pranav-pisal-63a907256",
-    "img": "Assets\\team\\Pranav Pisal.jpg"
+    "instagram": "",
+    "linkedin": "www.linkedin.com/in/pranav-pisal-63a907256",
+    "img": "Assets\\team\\Event\\Event_Pranav_Pisal.jpg"
   },
   {
-    "name": "Atharva Chitnis",
+    "name": "Subodh Kamble",
     "position": "Member",
-    "mail": "atharvachitnis16@gmail.com",
-    "instagram": "https://www.instagram.com/chitnisatharva16",
-    "linkedin": "https://www.linkedin.com/in/atharva-chitnis-243a79215",
-    "img": "Assets\\team\\Atharva Chitnis.jpg"
+    "mail": "subodh04kamble@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Event\\Event_Subodh_Kamble.jpg"
+  },
+  {
+    "name": "Gauri Kharad",
+    "position": "Member",
+    "mail": "23010029@pvgcoet.ac.in",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Event\\Event_Gauri_Kharad.jpg"
+  },
+  {
+    "name": "Aryan Vinayak Kadam",
+    "position": "Member",
+    "mail": "aryankadam2952005@gmail.com",
+    "instagram": "",
+    "linkedin": "",
+    "img": "Assets\\team\\Event\\Event_Aryan_Vinayak_Kadam.jpg"
+  },
+  {
+    "name": "Pratiksha Bhure",
+    "position": "Member",
+    "mail": "pratikshabhure05@gmail.com",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/pratiksha-bhure-55b7342a1/",
+    "img": "Assets\\team\\Event\\Event_Pratiksha_Bhure.jpg"
   }
 ]
