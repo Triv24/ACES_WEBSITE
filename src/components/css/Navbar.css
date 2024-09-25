@@ -6,28 +6,34 @@
   margin-left: auto;
   top: 0;
 }
+
 @media (min-width: 576px) {
   .containers {
     max-width: 540px;
   }
 }
+
 @media (min-width: 768px) {
   .containers {
     max-width: 720px;
   }
 }
+
 @media (min-width: 992px) {
   .containers {
     max-width: 960px;
   }
 }
+
 @media (min-width: 1200px) {
   .containers {
     max-width: 1140px;
   }
 }
+
 #logo {
-  margin-right: auto; /* This pushes the logo to the left */
+  margin-right: auto;
+  /* This pushes the logo to the left */
 }
 
 .nav-menu {
@@ -49,12 +55,12 @@
   white-space: nowrap;
 }
 
-.nav-menu > li {
+.nav-menu>li {
   float: left;
 }
 
-.nav-menu li:hover > ul,
-.nav-menu li.sfHover > ul {
+.nav-menu li:hover>ul,
+.nav-menu li.sfHover>ul {
   display: block;
 }
 
@@ -111,11 +117,11 @@
   color: #fff;
 }
 
-.nav-menu > li {
+.nav-menu>li {
   margin-left: 8px;
 }
 
-.nav-menu > li > a:before {
+.nav-menu>li>a:before {
   content: "";
   position: absolute;
   width: 0;
@@ -128,8 +134,8 @@
 }
 
 .nav-menu a:hover:before,
-.nav-menu li:hover > a:before,
-.nav-menu .menu-active > a:before {
+.nav-menu li:hover>a:before,
+.nav-menu .menu-active>a:before {
   visibility: visible;
   width: 100%;
 }
@@ -179,7 +185,7 @@
   border-radius: 3px;
 }
 
-.nav-menu ul li:hover > a {
+.nav-menu ul li:hover>a {
   background: #f82249;
   color: #fff;
 }
@@ -198,6 +204,8 @@
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  display: flex;
+  justify-content: space-between;
 }
 
 .header-scrolled {
@@ -215,6 +223,7 @@
 .pull-left {
   float: left;
 }
+
 .fa.pull-left {
   margin-right: 0.3em;
 }
