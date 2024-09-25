@@ -27,14 +27,6 @@
     "img": "Assets\\team\\Treasury\\Treasury_Nikhil_Chavan.jpg"
   },
   {
-    "name": "Shreya Gangatirkar",
-    "position": "Member",
-    "mail": "23020066@pvgcoet.ac.in",
-    "instagram": "https://www.instagram.com/shreya_0312",
-    "linkedin": "",
-    "img": "Assets\\team\\Treasury\\Treasury_Shreya_Gangatirkar.jpg"
-  },
-  {
     "name": "Vedant Pandurang Kokare",
     "position": "Member",
     "mail": "kokarevedant579@gmail.com",
@@ -42,6 +34,15 @@
     "linkedin": "",
     "img": "Assets\\team\\Treasury\\Treasury_Vedant_Pandurang_Kokare.jpg"
   },
+  {
+    "name": "Shreya Gangatirkar",
+    "position": "Member",
+    "mail": "23020066@pvgcoet.ac.in",
+    "instagram": "https://www.instagram.com/shreya_0312",
+    "linkedin": "",
+    "img": "Assets\\team\\Treasury\\Treasury_Shreya_Gangatirkar.jpg"
+  },
+
   {
     "name": "Shrinidhi Upadhye",
     "position": "Member",
