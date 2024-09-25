@@ -19,6 +19,14 @@
     "img": "Assets\\team\\Media\\Media_Samruddhi_Dhon.jpg"
   },
   {
+    "name": "Rushikesh Balasaheb Patil",
+    "position": "Member",
+    "mail": "rushikeshpatil5110@gmail.com",
+    "instagram": "https://www.instagram.com/rushikeshpatil5110_",
+    "linkedin": "",
+    "img": "Assets\\team\\Media\\Media_Rushikesh_Balasaheb_Patil.jpg"
+  },
+  {
     "name": "Hiya Shah",
     "position": "Member",
     "mail": "hiyaasha@gmail.com",
@@ -33,13 +41,5 @@
     "instagram": "https://www.instagram.com/_priya_n07_",
     "linkedin": "",
     "img": "Assets\\team\\Media\\Media_Priya_Nagare.jpg"
-  },
-  {
-    "name": "Rushikesh Balasaheb Patil",
-    "position": "Member",
-    "mail": "rushikeshpatil5110@gmail.com",
-    "instagram": "https://www.instagram.com/rushikeshpatil5110_",
-    "linkedin": "",
-    "img": "Assets\\team\\Media\\Media_Rushikesh_Balasaheb_Patil.jpg"
   }
 ]

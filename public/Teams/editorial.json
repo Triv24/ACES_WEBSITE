@@ -19,6 +19,14 @@
     "img": "Assets\\team\\Editorial\\Editorial_Atharv_Annasaheb_Amble.jpg"
   },
   {
+    "name": "Vaibhav Ganesh Deshpande",
+    "position": "Member",
+    "mail": "deshpande.vaibhav1012@gmail.com",
+    "instagram": "https://www.instagram.com/honestly_vaibhav1012",
+    "linkedin": "",
+    "img": "Assets\\team\\Editorial\\Editorial_Vaibhav_Ganesh_Deshpande.jpg"
+  },
+  {
     "name": "Pratik Limbekar",
     "position": "Member",
     "mail": "ipratiklimbekar@gmail.com",
@@ -33,13 +41,5 @@
     "instagram": "https://www.instagram.com/poorvajdv",
     "linkedin": "",
     "img": "Assets\\team\\Editorial\\Editorial_Poorva_Jadhav.jpg"
-  },
-  {
-    "name": "Vaibhav Ganesh Deshpande",
-    "position": "Member",
-    "mail": "deshpande.vaibhav1012@gmail.com",
-    "instagram": "https://www.instagram.com/honestly_vaibhav1012",
-    "linkedin": "",
-    "img": "Assets\\team\\Editorial\\Editorial_Vaibhav_Ganesh_Deshpande.jpg"
   }
 ]

@@ -19,6 +19,14 @@
     "img": "Assets\\team\\Treasury\\Treasury_Ishita_Deshpande.jpg"
   },
   {
+    "name": "Nikhil Chavan",
+    "position": "Member",
+    "mail": "nikhilchavan4002@gmail.com",
+    "instagram": "https://www.instagram.com/nikhil_chavan4002",
+    "linkedin": "https://www.linkedin.com/in/nikhil-chavan-795798256/",
+    "img": "Assets\\team\\Treasury\\Treasury_Nikhil_Chavan.jpg"
+  },
+  {
     "name": "Shreya Gangatirkar",
     "position": "Member",
     "mail": "23020066@pvgcoet.ac.in",
@@ -41,13 +49,5 @@
     "instagram": "https://www.instagram.com/being_charismatic",
     "linkedin": "https://www.linkedin.com/in/shrinidhi-upadhye-b29412282/",
     "img": "Assets\\team\\Treasury\\Treasury_Shrinidhi_Upadhye.jpg"
-  },
-  {
-    "name": "Nikhil Chavan",
-    "position": "Member",
-    "mail": "nikhilchavan4002@gmail.com",
-    "instagram": "https://www.instagram.com/nikhil_chavan4002",
-    "linkedin": "https://www.linkedin.com/in/nikhil-chavan-795798256/",
-    "img": "Assets\\team\\Treasury\\Treasury_Nikhil_Chavan.jpg"
   }
 ]

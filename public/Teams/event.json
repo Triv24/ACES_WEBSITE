@@ -19,22 +19,6 @@
     "img": "Assets\\team\\Event\\Event_Pranav_Pisal.jpg"
   },
   {
-    "name": "Subodh Kamble",
-    "position": "Member",
-    "mail": "subodh04kamble@gmail.com",
-    "instagram": "https://www.instagram.com/_whoissub_",
-    "linkedin": "",
-    "img": "Assets\\team\\Event\\Event_Subodh_Kamble.jpg"
-  },
-  {
-    "name": "Gauri Kharad",
-    "position": "Member",
-    "mail": "23010029@pvgcoet.ac.in",
-    "instagram": "https://www.instagram.com/gaurik_1734",
-    "linkedin": "",
-    "img": "Assets\\team\\Event\\Event_Gauri_Kharad.jpg"
-  },
-  {
     "name": "Aryan Vinayak Kadam",
     "position": "Member",
     "mail": "aryankadam2952005@gmail.com",
@@ -49,5 +33,21 @@
     "instagram": "https://www.instagram.com/pratiksha_bhure",
     "linkedin": "https://www.linkedin.com/in/pratiksha-bhure-55b7342a1/",
     "img": "Assets\\team\\Event\\Event_Pratiksha_Bhure.jpg"
+  },
+  {
+    "name": "Subodh Kamble",
+    "position": "Member",
+    "mail": "subodh04kamble@gmail.com",
+    "instagram": "https://www.instagram.com/_whoissub_",
+    "linkedin": "",
+    "img": "Assets\\team\\Event\\Event_Subodh_Kamble.jpg"
+  },
+  {
+    "name": "Gauri Kharad",
+    "position": "Member",
+    "mail": "23010029@pvgcoet.ac.in",
+    "instagram": "https://www.instagram.com/gaurik_1734",
+    "linkedin": "",
+    "img": "Assets\\team\\Event\\Event_Gauri_Kharad.jpg"
   }
 ]
