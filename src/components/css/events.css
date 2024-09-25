@@ -81,9 +81,9 @@
 }
 .event_subdiv .event_card .event_content .event_imgBx {
   position: relative;
-  width: 210px;
+  width: 245px;
   height: 260px;
-  border-radius: 5%;
+  border-radius: 5%;  
   overflow: hidden;
   border: 2px solid rgb(233, 233, 233);
 }
