@@ -59,6 +59,7 @@ const Footer = () => {
                   href="https://www.youtube.com/@acespvgcoet5962"
                   target="_blank"
                   class="youtube"
+                  rel="noreferrer"
                 >
                   <i class="fa fa-youtube"></i>
                 </a>
@@ -67,6 +68,7 @@ const Footer = () => {
                   href="https://instagram.com/acespvg?igshid=NDk5N2NlZjQ="
                   target="_blank"
                   class="instagram"
+                  rel="noreferrer"
                 >
                   <i class="fa fa-instagram"></i>
                 </a>
@@ -75,6 +77,7 @@ const Footer = () => {
                   href="https://www.linkedin.com/school/acespvg/"
                   target="_blank"
                   class="linkedin"
+                  rel="noreferrer"
                 >
                   <i class="fa fa-linkedin"></i>
                 </a>
