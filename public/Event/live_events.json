@@ -5,13 +5,13 @@
     },
     {
       "name": "Tech Trivia",
-      "reg_link": "#",
+      "reg_link": "https://docs.google.com/forms/d/e/1FAIpQLSc551i940YN2r1dY3YSMI9ByXYyU_IAhxttlecnx6nqALD31g/viewform",
       "img": "Assets\\events\\DNP_ACES.png",
       "isRegOpen": true
     },
     {
       "name": "Picture Perfect",
-      "reg_link": "#",
+      "reg_link": "https://docs.google.com/forms/d/e/1FAIpQLSdtoWZ70J-oajLwSCSM3cbl8HABcNwaoYL8AvyKKiRVFMwaaA/viewform",
       "img": "Assets\\events\\Picture Perfect.png",
       "isRegOpen": true
     }

@@ -3,15 +3,15 @@
     "status": "Past events"
   },
   {
-    "name": "Anime Quiz",
+    "name": "Algorythm",
     "reg_link": "#",
-    "img": "Assets\\team\\Jyotsna Hegde.jpg",
+    "img": "Assets\\events\\Jyotsna Hegde.jpg",
     "isRegOpen": true
   },
   {
-    "name": "Blind Coding",
-    "reg_link": "#",
-    "img": "Assets\\team\\Jyotsna Hegde.jpg",
+    "name": "Genesis",
+    "reg_link": "https://docs.google.com/forms/d/e/1FAIpQLSdxW477qDE9jEtPYupnbkq-vwKuieP7K6s0hSYNmbO4iqYElQ/closedform",
+    "img": "Assets\\events\\Genesis_2023.jpg",
     "isRegOpen": true
   }
 ]
