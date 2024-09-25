@@ -19,7 +19,7 @@ const Events = () => {
   console.log(eventData);
   return (
     <div id="team">
-      <h1 className="event_eventname">ACES Events 2023-24</h1>
+      <h1 className="event_eventname">ACES Events 2024-25</h1>
       <p className="event_tag">
         Experience the legacy of past events and the excitement of live events,
         all in one place – your gateway to departmental excellence.

@@ -50,12 +50,13 @@ const Navbar = () => {
             </li>
 
             <li className="buy-tickets">
-              <Link
-                href="https://docs.google.com/forms/d/e/1FAIpQLSczXQK-AuWDGv13yABEy8Y8RpSc5_Uuf4e57wK2KsQCQbQPDw/viewform?usp=sf_link"
+              <a
+                href="https://forms.gle/vTMqz9FQrSYNAaVG7"
                 target="_blank"
+                rel="noreferrer"
               >
                 Register Now
-              </Link>
+              </a>
             </li>
           </ul>
         </nav>
