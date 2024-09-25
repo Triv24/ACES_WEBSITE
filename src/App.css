@@ -225,6 +225,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
   overflow: hidden;
   position: relative;
+  background-image: url("./components/images/Committee.jpg");
 }
 
 #intro:before {
