@@ -268,6 +268,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 600;
   text-transform: uppercase;
 }
+
 #intro h1 span {
   color: #f82249;
 }
@@ -467,9 +468,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   0% {
     opacity: 0;
   }
+
   50% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -572,6 +575,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #152b79;
   margin-bottom: 0;
 }
+
 .calendar {
   width: 60%;
   height: 60%;
@@ -601,6 +605,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 15px;
   }
 }
+
 /*--------------------------------------------------------------
 # Venue Section
 --------------------------------------------------------------*/
@@ -1160,6 +1165,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (min-width: 768px) {
+
   #contact .contact-address,
   #contact .contact-phone,
   #contact .contact-email {
@@ -1211,7 +1217,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 
   #nav-menu-container {
-    display: none;
+    display: inline;
   }
 
   #mobile-nav-toggle {
