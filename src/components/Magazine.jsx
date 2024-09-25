@@ -24,7 +24,7 @@ const Magazine = () => {
                 <h2>ACE THE TECH</h2>
                 <div className="social">
                   <p>Download Magazine</p>
-                  <a href="ACES Magazine 2022-23.pdf">
+                  <a href="Assets\\ACES Magazine 2k24.pdf">
                     <i className="fa fa-download"></i>
                   </a>
                 </div>
