@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import FAQs from "./Home_Components/FAQs";
 import Location from "./Home_Components/Location";
 import Sponsors from "./Home_Components/Sponsors";
+import Calendar from "./Home_Components/Calendar";
 import "./css/home.css";
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
     <div>
       <Intro />
       <About />
+      <Calendar />
       <Sponsors />
       <FAQs />
       <Location />
