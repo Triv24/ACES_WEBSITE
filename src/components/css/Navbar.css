@@ -55,12 +55,12 @@
   white-space: nowrap;
 }
 
-.nav-menu>li {
+.nav-menu > li {
   float: left;
 }
 
-.nav-menu li:hover>ul,
-.nav-menu li.sfHover>ul {
+.nav-menu li:hover > ul,
+.nav-menu li.sfHover > ul {
   display: block;
 }
 
@@ -117,11 +117,11 @@
   color: #fff;
 }
 
-.nav-menu>li {
+.nav-menu > li {
   margin-left: 8px;
 }
 
-.nav-menu>li>a:before {
+.nav-menu > li > a:before {
   content: "";
   position: absolute;
   width: 0;
@@ -134,8 +134,8 @@
 }
 
 .nav-menu a:hover:before,
-.nav-menu li:hover>a:before,
-.nav-menu .menu-active>a:before {
+.nav-menu li:hover > a:before,
+.nav-menu .menu-active > a:before {
   visibility: visible;
   width: 100%;
 }
@@ -185,7 +185,7 @@
   border-radius: 3px;
 }
 
-.nav-menu ul li:hover>a {
+.nav-menu ul li:hover > a {
   background: #f82249;
   color: #fff;
 }
@@ -226,4 +226,120 @@
 
 .fa.pull-left {
   margin-right: 0.3em;
+}
+
+/* Navbar.css */
+
+/* General styling for the navbar */
+
+/* Styling for navigation menu */
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+/* Align logo and hamburger horizontally */
+
+/* Hamburger menu */
+.mobile-menu-icon {
+  display: none; /* Hidden by default */
+  cursor: pointer;
+  margin-top: 1.4rem;
+  margin-right: 1rem;
+  z-index: 1100; /* Ensure it appears above the menu */
+}
+
+.hamburger,
+.hamburger::before,
+.hamburger::after {
+  content: "";
+  display: block;
+  width: 25px;
+  height: 3px;
+  background: white;
+  transition: all 0.3s ease;
+}
+
+.hamburger.open {
+  background: transparent;
+}
+
+.hamburger.open::before {
+  transform: translateY(9px) rotate(45deg); /* Transform into the cross */
+}
+
+.hamburger.open::after {
+  transform: translateY(-9px) rotate(-45deg); /* Transform into the cross */
+}
+
+.hamburger::before,
+.hamburger::after {
+  position: relative;
+}
+
+.hamburger::before {
+  top: -8px;
+}
+
+.hamburger::after {
+  top: 8px;
+}
+
+/* Mobile navigation menu styles */
+.nav-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-menu.open {
+  display: block; /* Show menu when open */
+}
+
+@media (max-width: 768px) {
+  /* Stack the nav menu vertically on mobile */
+  .nav-menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 50%; /* Occupy half of the screen */
+    height: 100%; /* Full height */
+    background-color: rgba(6, 12, 34, 0.98); /* Match with navbar color */
+    padding: 20px;
+    flex-direction: column; /* Vertical layout */
+    gap: 20px;
+    text-align: center;
+    z-index: 1000;
+    transition: all 0.3s ease;
+  }
+
+  .nav-menu.open {
+    display: flex; /* Show the nav list */
+  }
+
+  /* Show hamburger icon */
+  .mobile-menu-icon {
+    display: flex;
+    position: fixed;
+    right: 20px; /* Aligns it to the extreme right */
+    top: 20px; /* Position it at the top */
+  }
+
+  nav ul {
+    display: none; /* Hide the desktop horizontal menu */
+  }
 }

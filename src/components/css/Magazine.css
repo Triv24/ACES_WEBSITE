@@ -1,71 +1,43 @@
 #main {
   background-image: url("../images/meetings-bg.jpg");
-  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  padding: 20px;
 }
 
 .magazine-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
 }
 
 .img-fluid {
-  width: 20rem;
-  height: 30rem;
-  margin-left: 200px;
-  margin-top: -135px;
-}
-
-@keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-.fadeIn {
-  animation-name: fadeIn;
-}
-
-@media (min-width: 576px) {
-  .container {
-    max-width: 540px;
-  }
-}
-@media (min-width: 768px) {
-  .container {
-    max-width: 720px;
-  }
-}
-@media (min-width: 992px) {
-  .container {
-    max-width: 960px;
-  }
-}
-@media (min-width: 1200px) {
-  .container {
-    max-width: 1140px;
-  }
+  width: 100%;
+  max-width: 20rem; /* Limiting the image size */
+  height: auto; /* Automatically adjust height */
+  margin: 0 auto; /* Center the image horizontally */
 }
 
 .section-header {
   margin-bottom: 60px;
-  margin-top: 100px;
   padding-bottom: 20px;
   padding-top: 50px;
-  left: 38%;
+  text-align: center;
+  position: relative; /* Make it relative for the pseudo-element */
 }
 
 .section-header::before {
   content: "";
-  position: absolute;
-  display: block;
+  position: absolute; /* Use absolute positioning to place it relative to the parent */
   width: 60px;
   height: 5px;
   background: #f82249;
-  top: 12.4rem;
-  left: calc(50% - 25px);
+  bottom: 20px; /* Position it below the text */
+  left: 50%;
+  transform: translateX(-50%); /* Center it horizontally */
 }
 
 .section-header h2 {
@@ -78,53 +50,70 @@
 }
 
 .row {
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
-#speakers-details .details h2 {
+.col-md-5,
+.col-md-6 {
+  flex-basis: 45%; /* Allow flex-based responsive layout */
+  padding: 10px;
+}
+
+.details h2 {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 10px;
 }
 
-#speakers-details .details .social {
+.details .social {
   margin-bottom: 15px;
 }
 
-#speakers-details .details .social a {
+.details .social a {
   background: #e9edfb;
   color: #112363;
-  line-height: 1;
   display: inline-block;
-  text-align: center;
   border-radius: 50%;
   width: 36px;
   height: 36px;
-  padding-top: 9px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-#speakers-details .details .social a:hover {
+.details .social a:hover {
   background: #f82249;
   color: #fff;
 }
 
-#speakers-details .details .social a i {
-  font-size: 18px;
-}
-
-#speakers-details .details p {
+.details p {
   color: #fff;
   font-size: 15px;
   margin-bottom: 10px;
 }
 
-@media (max-width: 500px) {
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .col-md-5,
+  .col-md-6 {
+    flex-basis: 100%;
+    text-align: center;
+  }
+
   .img-fluid {
-    width: 100%;
-    height: 470px;
+    margin-top: 20px;
+    width: 90%; /* Responsive width for smaller screens */
+  }
+
+  .details {
+    margin-top: 20px;
   }
 }
