@@ -1,7 +1,8 @@
 .news-container {
   display: flex;
-  justify-content: space-evenly;
-
+  justify-content: center;
+  gap: 10vh;
+  align-items: center;
   font-family: "Manrope", sans-serif;
 }
 
@@ -32,8 +33,11 @@
 }
 
 .cardd {
-  width: 275px;
-  height: 400px;
+  /* 
+  width: 18.75rem;
+  height: 25rem; */
+  width: 400px;
+  height: 500px;
   border: 0px solid #e6e5ff;
   border-radius: 10px;
   background-color: #f4f6f9;
@@ -46,7 +50,7 @@
 }
 
 .card-img {
-  height: 130px;
+  height: 200px;
   border-radius: 10px 10px 0px 0px;
 }
 
@@ -62,6 +66,7 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  padding: 1.625rem 0.313rem 1.875rem 0.313rem;
 }
 
 .article-topic {
@@ -73,19 +78,20 @@ img {
   border-radius: 5px;
   color: #2e5a8c;
   background-color: #dfe6ee;
+  margin-bottom: 10px;
 }
 
-.article-topic > p {
+.article-topic>p {
   margin: auto;
   font-family: "Rubik";
 }
 
-.article-content > h5 {
+.article-content>h5 {
   font-weight: 700;
   margin: 10px 0 10px 0;
 }
 
-.article-content > p {
+.article-content>p {
   font-weight: 400;
   margin: 0 0 10px 0;
 }
@@ -96,7 +102,7 @@ img {
   align-items: center;
 }
 
-.article-author > p {
+.article-author>p {
   margin: 0px;
   font-weight: 800;
   font-family: "Rubik";
@@ -126,4 +132,64 @@ img {
   color: #fff;
   transition: 0.4s;
   cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .news-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: "Manrope", sans-serif;
+  }
+
+  .background {
+    background-image: url("../images/meetings-bg.jpg");
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-repeat: repeat;
+  }
+
+  .cardd {
+    /* 
+    width: 18.75rem;
+    height: 25rem; */
+    width: 300px;
+    height: 400px;
+    border: 0px solid #e6e5ff;
+    border-radius: 10px;
+    background-color: #f4f6f9;
+    margin: 150px 35px 20px 35px;
+  }
+
+  .card-img {
+    height: 130px;
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  .card-content {
+    margin: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .article-topic {
+    width: 100px;
+    height: 35px;
+    padding: 4px 12px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    color: #2e5a8c;
+    background-color: #dfe6ee;
+  }
+
+  .card-content {
+    margin: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0px;
+  }
 }
