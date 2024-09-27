@@ -19,20 +19,20 @@
     "img": "Assets\\team\\Event\\Event_Pranav_Pisal.jpg"
   },
   {
-    "name": "Aryan Vinayak Kadam",
-    "position": "Member",
-    "mail": "aryankadam2952005@gmail.com",
-    "instagram": "https://www.instagram.com/kadam_aryan_04",
-    "linkedin": "",
-    "img": "Assets\\team\\Event\\Event_Aryan_Vinayak_Kadam.jpg"
-  },
-  {
     "name": "Pratiksha Bhure",
     "position": "Member",
     "mail": "pratikshabhure05@gmail.com",
     "instagram": "https://www.instagram.com/pratiksha_bhure",
     "linkedin": "https://www.linkedin.com/in/pratiksha-bhure-55b7342a1/",
     "img": "Assets\\team\\Event\\Event_Pratiksha_Bhure.jpg"
+  },
+  {
+    "name": "Aryan Vinayak Kadam",
+    "position": "Member",
+    "mail": "aryankadam2952005@gmail.com",
+    "instagram": "https://www.instagram.com/kadam_aryan_04",
+    "linkedin": "",
+    "img": "Assets\\team\\Event\\Event_Aryan_Vinayak_Kadam.jpg"
   },
   {
     "name": "Subodh Kamble",
