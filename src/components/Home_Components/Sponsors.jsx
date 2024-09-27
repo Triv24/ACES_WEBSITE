@@ -12,27 +12,25 @@ const Sponsors = () => {
           <div className="col-lg-4 col-md-4 col-xs-4">
             <div className="sponsor-logo">
               <img
-                src="Assets/sponsors/sarvaha.jpg"
+                src="Assets/sponsors/Sponsor_Pictel_AI.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
           </div>
-
           <div className="col-lg-4 col-md-4 col-xs-4">
             <div className="sponsor-logo">
               <img
-                src="Assets/sponsors/versatalia.jpeg"
+                src="Assets/sponsors/Sponsor_Budhani.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
           </div>
-
           <div className="col-lg-4 col-md-4 col-xs-4">
             <div className="sponsor-logo">
               <img
-                src="Assets/sponsors/mentami.jpg"
+                src="Assets/sponsors/Sponsor_Star_Copiers.jpg"
                 className="img-fluid"
                 alt=""
               />
