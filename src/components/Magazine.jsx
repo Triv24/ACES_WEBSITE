@@ -11,7 +11,7 @@ const Magazine = () => {
           </div>
 
           <div className="row">
-            <div className="col-md-5">
+            <div className="magazine-image">
               <img
                 src="img/ACES Magazine 2022-23frontpage_page-0001.jpg"
                 alt={1}

@@ -8,6 +8,12 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 body {
   background: #fff;
@@ -45,6 +51,10 @@ h6 {
   margin: 0 0 20px 0;
   padding: 0;
   color: #0e1b4d;
+}
+
+.App {
+  height: 100vh;
 }
 
 /* Prelaoder */

@@ -8,8 +8,20 @@
 
 .background {
   background-image: url("../images/meetings-bg.jpg");
-  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; /* Ensure it takes up the full viewport height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.fadeIn {
+  height: 100%;
+  width: 100%;
+}
+
+
 
 .news-section-header h2 {
   font-size: 36px;
@@ -144,11 +156,15 @@ img {
 
   .background {
     background-image: url("../images/meetings-bg.jpg");
-    height: 100%;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; /* Ensure it takes up the full viewport height */
     display: flex;
     flex-direction: column;
-    background-repeat: repeat;
+    align-items: center;
+    justify-content: center;
   }
+  
 
   .cardd {
     /* 

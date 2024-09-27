@@ -9,16 +9,17 @@
 .magazine-container {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: space-evenly;
   align-items: center;
   padding: 20px;
 }
 
+
 .img-fluid {
   width: 100%;
-  max-width: 20rem; /* Limiting the image size */
-  height: auto; /* Automatically adjust height */
-  margin: 0 auto; /* Center the image horizontally */
+  max-width: 18rem; /* Reduce image width */
+  height: auto;
+  margin: 0; /* Remove margin */
 }
 
 .section-header {
@@ -52,13 +53,14 @@
 .row {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  align-items: flex-start; /* Align items at the top */
 }
 
 .col-md-5,
 .col-md-6 {
-  flex-basis: 45%; /* Allow flex-based responsive layout */
-  padding: 10px;
+  flex-basis: 45%;
+  padding: 5px; /* Reduce padding */
 }
 
 .details h2 {
@@ -102,7 +104,7 @@
     align-items: center;
   }
 
-  .col-md-5,
+  .magazine-image,
   .col-md-6 {
     flex-basis: 100%;
     text-align: center;
