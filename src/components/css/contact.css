@@ -83,6 +83,9 @@
   justify-self: center;
 }
 
+.form {
+  max-width: 1110px;
+}
 #contact .form #sendmessage {
   color: #f82249;
   border: 1px solid #f82249;
@@ -137,4 +140,23 @@
 
 #contact .form button[type="submit"]:hover {
   background: #e0072f;
+}
+
+.form-row {
+  display: flex;
+  gap: 0.313rem; /* Space between name and email fields */
+}
+
+.form-group {
+  flex: 1; /* Make the form fields expand to fill the available space */
+}
+
+.form-group.col-md-6 {
+  width: 500px; /* Ensure both fields occupy 50% of the row */
+  padding: 0;
+  margin: 1rem 0.313rem; /* Optional */
+}
+
+* {
+  box-sizing: border-box;
 }
