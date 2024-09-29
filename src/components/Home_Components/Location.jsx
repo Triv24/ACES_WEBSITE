@@ -16,8 +16,8 @@ const Location = () => {
             <iframe
               title="Map"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.8884771514604!2d73.85253167720636!3d18.49062305959726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c004bc8e1d8f%3A0x12df641707ea878e!2sPVG&#39;S%20COET!5e0!3m2!1sen!2sin!4v1682055567853!5m2!1sen!2sin"
-              width="600"
-              height="450"
+              width="100%"
+              height="100%"
               style={{ border: 0 }}
               allowfullscreen=""
               loading="lazy"
@@ -27,7 +27,7 @@ const Location = () => {
           </div>
 
           <div className="col-lg-6 venue-info">
-            <div className="row justify-content-center">
+            <div className="row p-2">
               <div className="col-11 col-lg-8">
                 <h3>ACES PVGCOET,PUNE</h3>
                 <p>
