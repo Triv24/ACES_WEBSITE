@@ -8,7 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
   padding: 0;
@@ -652,8 +653,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* background: url("../img/venue-info-bg.jpg") top center no-repeat; */
   background-size: cover;
   position: relative;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
 }
 
 #venue .venue-info:before {
