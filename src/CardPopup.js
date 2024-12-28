@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import img1 from "../src/images/ig.png"; // Example image 1
-import img2 from "../src/images/image_2.png"; // Example image 2
+import img1 from "../src/images/poster.jpg"; // Example image 1
+// import img2 from "../src/images/image_2.png"; // Example image 2
 
 
 const CardPopup = ({ onClose }) => {
   // Array of card data
   const cards = [
-    { img: img1, message: "Kudos to the Winner!" },
-    { img: img2, message: "Cheers to the Second Winner!" },
+    { img: img1, message: "" },
+    // { img: img2, message: "Cheers to the Second Winner!" },
    
   ];
 
@@ -61,8 +61,8 @@ const Overlay = styled.div`
 `;
 
 const StyledCard = styled.div`
-  width: 900px;
-  height: 700px;
+  width: 800px;
+  height: 750px;
   background: white;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
@@ -71,7 +71,7 @@ const StyledCard = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 60px;
+  padding-bottom: 5px;
 `;
 
 const CloseButton = styled.button`
@@ -90,12 +90,13 @@ const ImageWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 
   img {
-    max-width: 100%;
-    max-height: 100%;
-    margin: 15px;
+    max-width: 90%;
+    max-height: 80%;
+    margin: 2px;
+    padding-bottom:10px;
     border-radius: 0px;
   }
 `;
