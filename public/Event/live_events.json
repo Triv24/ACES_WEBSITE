@@ -5,7 +5,7 @@
     },
     {
       "name": "Tech Trivia",
-      "reg_link": "https://docs.google.com/forms/d/e/1FAIpQLSc551i940YN2r1dY3YSMI9ByXYyU_IAhxttlecnx6nqALD31g/viewform",
+      "reg_link": "/register",
       "img": "Assets\\events\\DNP_ACES.png",
       "isRegOpen": true
     },
